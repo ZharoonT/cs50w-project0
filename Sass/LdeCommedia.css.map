@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,IADA,CACA,EAAE,CAAA;EACE,UAAU,EAAE,MAAM;EAClB,UAAU,EAAE,EAAE;EACd,aAAa,EAAE,IAAI;CACtB;;AACD,MAAM,EAAE,SAAS,EAAE,KAAK;EAN5B,AAQQ,IARJ,CAQI,KAAK,CAAA;IACF,WAAW,EAAE,GAAG;IAChB,UAAU,EAAE,GAAG;GACjB",
+    "sources": [
+        "LdeCommedia.scss"
+    ],
+    "names": [],
+    "file": "LdeCommedia.css"
+}

@@ -1,0 +1,13 @@
+body h1 {
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 500px) {
+  body .card {
+    margin-left: 15%;
+    margin-top: 10%;
+  }
+}
+/*# sourceMappingURL=LdeCommedia.css.map */
