@@ -1,3 +1,8 @@
+body {
+  margin-top: 100px;
+  background: url("Imagenes/banner.jpg");
+}
+
 body h1 {
   font-size: 5rem;
   text-align: center;
